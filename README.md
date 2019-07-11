@@ -7,7 +7,9 @@ Sources:
 
 # CO2 data
 [Scripps CO2 Record, Mauna Loa](http://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record)
+
 http://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record
+
 see also https://climatedataguide.ucar.edu/climate-data/overview-carbon-dioxide-co2-data-sets
 
 # RF Table
